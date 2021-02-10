@@ -13,23 +13,31 @@ I'm interested in Development and Open-Source Projects.
 ### Main Projects :
 [FERAMS](https://github.com/Akshay-jain22/FERAMS)
 
-### Py-Games :
+### Python Projects :
 
 [Space Invaders](https://github.com/Akshay-jain22/Space_Invaders)
 
 [Flappy Bird](https://github.com/Akshay-jain22/Flappy-Bird)
 
-### Android-Games :
+[Animal Card Game](https://github.com/Akshay-jain22/Animal-Card-Game)
+
+[Typing Speed Calculator](https://github.com/Akshay-jain22/Typing_Speed_Calculator)
+
+### Android Projects :
 
 [Tic Tac Toe](https://github.com/Akshay-jain22/Tic_Tac_Toe)
 
 [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
 
+[Eventica](https://github.com/Akshay-jain22/Eventica)
 
-### JS-Games :
+[Alarming System Mobile App](https://github.com/Akshay-jain22/Alarming_System_Mobile_App)
 
-[Pokemon-Cards](https://github.com/Akshay-jain22/Pokemon-Card-Game)
+### Web Projects :
 
+[Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
+
+[Email Notification](https://github.com/Akshay-jain22/Email_Notification)
 ---
 
 📫 How to reach me: 
