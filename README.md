@@ -13,6 +13,9 @@ I'm interested in Development and Open-Source Projects.
 ### Main Projects :
 [FERAMS](https://github.com/Akshay-jain22/FERAMS)
 
+### Ruby On Rails Projects :
+[Blogspot](https://github.com/Akshay-jain22/Blogspot)
+
 ### Python Projects :
 
 [Space Invaders](https://github.com/Akshay-jain22/Space_Invaders)
@@ -38,6 +41,9 @@ I'm interested in Development and Open-Source Projects.
 [Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
 
 [Email Notification](https://github.com/Akshay-jain22/Email_Notification)
+
+### Competitive Programming :
+[IE SMP](https://github.com/Akshay-jain22/Competitive-Programming)
 
 ---
 
