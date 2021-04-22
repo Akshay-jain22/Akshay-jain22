@@ -6,6 +6,10 @@ I'm Akshay Jain, Currently Studying about Information Technology at [National In
 
 I'm interested in Development and Open-Source Projects.
 
+
+#### 😄 Feeling Bored?
+[Play a Game](https://akshay-jain22.github.io/Pokemon-Card-Game/)
+
 ---
 
 ## Go Check Out👉
@@ -51,7 +55,6 @@ I'm interested in Development and Open-Source Projects.
 [Linkedin](https://www.linkedin.com/in/akshay-jain-5b1a991a0/)
 
 ---
-
 
 <!--
 **Akshay-jain22/Akshay-jain22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
