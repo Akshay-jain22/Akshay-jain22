@@ -7,7 +7,7 @@ I'm Akshay Jain, Currently Studying about Information Technology at [National In
 I'm interested in Development and Open-Source Projects.
 
 
-#### 😄 Feeling Bored?
+#### 🤔 Feeling Bored?
 [Play a Game](https://akshay-jain22.github.io/Pokemon-Card-Game/)
 
 ---
@@ -42,12 +42,23 @@ I'm interested in Development and Open-Source Projects.
 
 ### Web Projects :
 
+[Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
+
 [Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
 
 [Email Notification](https://github.com/Akshay-jain22/Email_Notification)
 
 ### Competitive Programming :
-[IE SMP](https://github.com/Akshay-jain22/Competitive-Programming)
+
+[CP Solutions](https://github.com/Akshay-jain22/Competitive-Programming)
+
+[IE SMP](https://github.com/Akshay-jain22/IE-SMP)
+
+---
+
+## ⚡ Special Section ⚡
+
+[Software Applications](https://github.com/Akshay-jain22/Software-Applications)
 
 ---
 
