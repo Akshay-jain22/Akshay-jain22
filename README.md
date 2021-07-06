@@ -15,50 +15,40 @@ I'm interested in Development and Open-Source Projects.
 ## Go Check Out👉
 
 ### Main Projects :
-[FERAMS](https://github.com/Akshay-jain22/FERAMS)
+- [FERAMS](https://github.com/Akshay-jain22/FERAMS)
+- [MedBot](https://github.com/Akshay-jain22/MedBot)
+- [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
+- [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
 
 ### Ruby On Rails Projects :
-[Blogspot](https://github.com/Akshay-jain22/Blogspot)
+- [Blogspot](https://github.com/Akshay-jain22/Blogspot)
 
 ### Python Projects :
-
-[Space Invaders](https://github.com/Akshay-jain22/Space_Invaders)
-
-[Flappy Bird](https://github.com/Akshay-jain22/Flappy-Bird)
-
-[Animal Card Game](https://github.com/Akshay-jain22/Animal-Card-Game)
-
-[Typing Speed Calculator](https://github.com/Akshay-jain22/Typing_Speed_Calculator)
+- [MedBot](https://github.com/Akshay-jain22/MedBot)
+- [Space Invaders](https://github.com/Akshay-jain22/Space_Invaders)
+- [Flappy Bird](https://github.com/Akshay-jain22/Flappy-Bird)
+- [Animal Card Game](https://github.com/Akshay-jain22/Animal-Card-Game)
+- [Typing Speed Calculator](https://github.com/Akshay-jain22/Typing_Speed_Calculator)
 
 ### Android Projects :
-
-[Tic Tac Toe](https://github.com/Akshay-jain22/Tic_Tac_Toe)
-
-[Game Bash](https://github.com/Akshay-jain22/Game_Bash)
-
-[Eventica](https://github.com/Akshay-jain22/Eventica)
-
-[Alarming System Mobile App](https://github.com/Akshay-jain22/Alarming_System_Mobile_App)
+- [Tic Tac Toe](https://github.com/Akshay-jain22/Tic_Tac_Toe)
+- [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
+- [Eventica](https://github.com/Akshay-jain22/Eventica)
+- [Alarming System Mobile App](https://github.com/Akshay-jain22/Alarming_System_Mobile_App)
 
 ### Web Projects :
-
-[Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
-
-[Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
-
-[Email Notification](https://github.com/Akshay-jain22/Email_Notification)
+- [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
+- [Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
+- [Email Notification](https://github.com/Akshay-jain22/Email_Notification)
 
 ### Competitive Programming :
-
-[CP Solutions](https://github.com/Akshay-jain22/Competitive-Programming)
-
-[IE SMP](https://github.com/Akshay-jain22/IE-SMP)
+- [CP Solutions](https://github.com/Akshay-jain22/Competitive-Programming)
+- [IE SMP](https://github.com/Akshay-jain22/IE-SMP)
 
 ---
 
 ## ⚡ Special Section ⚡
-
-[Software Applications](https://github.com/Akshay-jain22/Software-Applications)
+- [Software Applications](https://github.com/Akshay-jain22/Software-Applications)
 
 ---
 
