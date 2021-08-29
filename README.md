@@ -41,10 +41,6 @@ I'm interested in Development and Open-Source Projects.
 - [Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
 - [Email Notification](https://github.com/Akshay-jain22/Email_Notification)
 
-### Competitive Programming :
-- [CP Solutions](https://github.com/Akshay-jain22/Competitive-Programming)
-- [IE SMP](https://github.com/Akshay-jain22/IE-SMP)
-
 ---
 
 ## ⚡ Special Section ⚡
