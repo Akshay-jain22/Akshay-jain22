@@ -49,7 +49,7 @@ I'm interested in Development and Open-Source Projects.
 ---
 
 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/akshay-jain-5b1a991a0/)
+[Linkedin](https://www.linkedin.com/in/akshay-jain22/)
 
 ---
 
