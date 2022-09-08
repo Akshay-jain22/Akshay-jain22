@@ -15,6 +15,7 @@ I'm interested in Development and Open-Source Projects.
 ## Go Check Out👉
 
 ### Main Projects :
+- [Heartz](https://github.com/Akshay-jain22/Heartz)
 - [FERAMS](https://github.com/Akshay-jain22/FERAMS)
 - [MedBot](https://github.com/Akshay-jain22/MedBot)
 - [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
