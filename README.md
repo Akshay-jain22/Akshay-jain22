@@ -27,7 +27,7 @@ I'm interested in Development and Open-Source Projects.
 
 ---
 
-## 🔥 &nbsp; My Stats 🔥
+## 🔥 My Stats 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-jain22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
