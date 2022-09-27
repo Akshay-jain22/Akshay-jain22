@@ -1,8 +1,8 @@
 ![Header](https://github.com/Akshay-jain22/Akshay-jain22/blob/main/Banner_new.png)
 
-## Hello, people! <img src="https://github.com/Akshay-jain22/Akshay-jain22/blob/main/wave.gif" width="30px">
+<h1 align="center"> Hello, people! <img src="https://github.com/Akshay-jain22/Akshay-jain22/blob/main/wave.gif" width="30px"> </h1>
 
-I'm Akshay Jain, Currently Studying about Information Technology at [National Institute of Technology, Karnataka](https://www.nitk.ac.in/)
+I'm <b>Akshay Jain</b>, Currently Studying about Information Technology at [National Institute of Technology, Karnataka](https://www.nitk.ac.in/)
 
 I'm interested in Development and Open-Source Projects.
 
@@ -14,33 +14,11 @@ I'm interested in Development and Open-Source Projects.
 
 ## Go Check Out👉
 
-### Main Projects :
 - [Heartz](https://github.com/Akshay-jain22/Heartz)
 - [FERAMS](https://github.com/Akshay-jain22/FERAMS)
 - [MedBot](https://github.com/Akshay-jain22/MedBot)
 - [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
 - [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
-
-### Ruby On Rails Projects :
-- [Blogspot](https://github.com/Akshay-jain22/Blogspot)
-
-### Python Projects :
-- [MedBot](https://github.com/Akshay-jain22/MedBot)
-- [Space Invaders](https://github.com/Akshay-jain22/Space_Invaders)
-- [Flappy Bird](https://github.com/Akshay-jain22/Flappy-Bird)
-- [Animal Card Game](https://github.com/Akshay-jain22/Animal-Card-Game)
-- [Typing Speed Calculator](https://github.com/Akshay-jain22/Typing_Speed_Calculator)
-
-### Android Projects :
-- [Tic Tac Toe](https://github.com/Akshay-jain22/Tic_Tac_Toe)
-- [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
-- [Eventica](https://github.com/Akshay-jain22/Eventica)
-- [Alarming System Mobile App](https://github.com/Akshay-jain22/Alarming_System_Mobile_App)
-
-### Web Projects :
-- [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
-- [Pokemon Card Game](https://github.com/Akshay-jain22/Pokemon-Card-Game)
-- [Email Notification](https://github.com/Akshay-jain22/Email_Notification)
 
 ---
 
@@ -49,8 +27,15 @@ I'm interested in Development and Open-Source Projects.
 
 ---
 
+## 🔥 &nbsp; My Stats 🔥
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-jain22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/akshay-jain22/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-akshay--jain22-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jain22)
 
 ---
 
